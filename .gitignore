@@ -1,0 +1,11 @@
+# Large source datasets (IMDb ~76MB, TMDb ~75MB) — not redistributed
+data/imdb.titles.composite.csv
+data/tmdb.titles.v3.csv
+
+# Course materials
+netflix_briefing_EN.pptx
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+~$*
