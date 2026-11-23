@@ -3,9 +3,10 @@ data/imdb.titles.composite.csv
 data/tmdb.titles.v3.csv
 
 # Course materials
-netflix_briefing_EN.pptx
+docs/
 
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
 ~$*
+.venv/
